@@ -1,6 +1,6 @@
 <br/>
 
-<div align="center">만나서 반가워요 ✌️</div>  
+<div align="center">😊</div>  
   
 
 <br/>  
