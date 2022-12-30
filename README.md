@@ -1,6 +1,6 @@
 <br/>
 
-<div align="center">😊</div>  
+<div align="center" style="font-size:20px">😊</div>  
   
 
 <br/>  
